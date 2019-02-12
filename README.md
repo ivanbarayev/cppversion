@@ -2,10 +2,16 @@
 Learn  C++ current language/compiler version
 
 Compile with the following code
-```g++ learn.cpp -o learn```
+```
+g++ learn.cpp -o learn
+```
 
 Run
-```./learn```
+```
+./learn
+```
 
 Sample OutPut
-```C++17```
+```
+C++17
+```
